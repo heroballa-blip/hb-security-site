@@ -19,23 +19,6 @@ This is a simple portfolio site that includes:
 ---
 
 ## Project structure
-portfolio-website/
-├── index.html
-├── main.js
-├── effects.js
-├── css/
-│   ├── base.css
-│   ├── animations.css
-│   └── responsive.css
-├── components/
-│   ├── nav/
-│   ├── hero/
-│   ├── skills/
-│   ├── experience/
-│   ├── projects/
-│   ├── dashboard/
-│   ├── certs/
-│   └── contact/
 
 Each section is broken into components with:
 - HTML for structure  
