@@ -2,7 +2,7 @@
 
 This is my personal cybersecurity portfolio website. I built it while learning more about web development and cybersecurity, and to have something I can show when applying for internships.
 
-I used plain HTML, CSS, and JavaScript so I could understand how everything works and applied WCAG 2.1 guidelines (Level AA).
+I used HTML, CSS, and JavaScript so I could understand how everything works and applied WCAG 2.1 guidelines (Level AA).
 
 ---
 
