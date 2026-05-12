@@ -1,0 +1,21 @@
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+  nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  #hero { padding: 100px 24px 60px; }
+  section { padding: 70px 24px; }
+  .dash-stats { grid-template-columns: repeat(2, 1fr); }
+  .incident-row { grid-template-columns: 1fr 70px; }
+  .incident-row > *:nth-child(n+3) { display: none; }
+  .projects-grid {
+    grid-template-columns: 1fr;
+    background: transparent;
+    border: none;
+  }
+  .project-card {
+    border-color: var(--border2);
+  }
+  h2 { font-size: clamp(24px, 5vw, 32px); }
+  .skills-grid { grid-template-columns: 1fr; }
+  .certs-grid { grid-template-columns: 1fr; }
+}
